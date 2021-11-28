@@ -148,7 +148,7 @@
 
 **效果：**
 
- <img src="https://l9711self.gitee.io/blog/img/author.jpeg" alt="磊磊闲说" style="zoom:25%;" />
+ <img src="https://l9711self.gitee.io/blog/img/author.jpeg" alt="磊磊闲说" style="zoom:10%;" />
 
 #### 9、表格
 
