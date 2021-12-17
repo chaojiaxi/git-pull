@@ -6,3 +6,5 @@
 - **[markdown 基本语法](https://github.com/chaojiaxi/github-note/blob/master/Markdown.md)**
 
 - **[vscode 常用插件](https://github.com/chaojiaxi/github-note/blob/master/VSCode_plugin.md)**
+
+- **[CoentOS 环境搭建](https://github.com/chaojiaxi/github-note/blob/master/CentOS_environment.md)**
